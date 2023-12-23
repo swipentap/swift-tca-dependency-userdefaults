@@ -95,8 +95,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/swipentap/swift-tca-appl.git",
       "state" : {
-        "revision" : "ea74bc77ec71da6d99388a968ebedf29f78b70f4",
-        "version" : "1.0.0"
+        "revision" : "b7e6c23921cc552fca13857d666f85de1f0dce1d",
+        "version" : "1.0.2"
       }
     },
     {

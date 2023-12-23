@@ -18,7 +18,7 @@ let package = Package(
             targets: ["UserDefaults"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/swipentap/swift-tca-appl.git", from: "1.0.0"),
+        .package(url: "https://github.com/swipentap/swift-tca-appl.git", from: "1.0.2"),
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
